@@ -40,8 +40,17 @@ El botón abre ahora el complemento de Luma ya configurado. En su ficha pulsa Pr
 
 ## Salas y mobiliario personalizado
 
-Los rótulos flotantes son compactos y ligeramente transparentes; conservan nombre, cargo y actividad. El foco y la selección recuperan un fondo opaco. La navegación permite acercarse directamente a Inspiración o Descanso y café.
+Los rótulos flotantes son compactos y ligeramente transparentes; conservan nombre, cargo y actividad. El foco y la selección recuperan un fondo opaco. La navegación permite acercarse directamente a Inspiración, Descanso y café o Sala de juntas.
 
-El salón de descanso ocupa una habitación anexa con barra, sofás y televisión. Los personajes llegan por una ruta, se recuestan sobre el sofá y se incorporan antes de salir. La televisión muestra una animación geométrica original, que se detiene con movimiento reducido; no reproduce servicios de streaming.
+El salón de descanso ocupa una habitación anexa con barra, un sofá naranja y televisión. Los personajes llegan por una ruta, se sientan frente a la pantalla y se levantan antes de salir. La televisión muestra una animación geométrica original, que se detiene con movimiento reducido; no reproduce servicios de streaming.
 
-El taller de inspiración reúne cuadros, restiradores, revistas y materiales de dibujo. Iris tiene un restirador grande, dibujos y papeles en el suelo; Milo, un escritorio ampliado, cuadros y revistas; Alba, cámara, luces y libros. En la planta alta, Elio tiene sillón conceptual azul, barra de café y perchero con chaquetas; Luma tiene una mini sala, refrigerador, mesa central y esculturas.
+El taller de inspiración reúne cuadros, restiradores, revistas y materiales de dibujo. Iris tiene un restirador grande, dibujos y papeles en el suelo; Milo, un escritorio ampliado, cuadros y revistas; Alba, cámara, luces y libros. En la planta alta, Elio tiene sofá conceptual azul alargado, barra de café y perchero con chaquetas; Luma tiene una mini sala, refrigerador, mesa central y esculturas.
+
+
+## Asientos y sala de juntas
+
+El descanso tiene un único sofá escultórico naranja orientado hacia la televisión. Los personajes se sientan con cadera y rodillas flexionadas y se levantan antes de caminar. Elio tiene un sofá azul alargado que mira hacia el centro de su oficina y lo utiliza durante sus pausas. La mini sala de Luma mira hacia el interior; su mesa de trabajo y el librero dejan libre el acceso al frigobar. El librero de Milo abre hacia su puesto de trabajo.
+
+La sala de juntas ocupa un anexo de 13.6 × 11.5 unidades con mesa larga, cinco sillas, pantalla grande, frigobar, sofá, cuadros, revistas, librero y plantas. Se accede con Sala de juntas, junto a Vista general. Reunir al equipo inicia el recorrido de los cinco personajes; cada uno ocupa su asiento y la reunión comienza al llegar todos. Finalizar reunión los devuelve a sus oficinas. Un encargo interrumpe la reunión. La escena respeta movimiento reducido y conserva el acceso con teclado y en móvil.
+
+La reunión es una representación en el estudio 3D; no crea un encargo ni llama a la API. La conexión con Luma en ChatGPT conserva el envío manual del brief y de las referencias.
