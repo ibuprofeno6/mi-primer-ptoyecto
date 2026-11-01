@@ -34,3 +34,5 @@ Los nuevos commits pueden activar el despliegue automático si el sitio sigue co
 En Nuevo encargo, el apartado Crear con Luma en ChatGPT prepara el pedido y permite copiarlo y abrir ChatGPT. El apartado Configurar mi GPT de Luma contiene las instrucciones, el acceso al creador y un campo para guardar su enlace. Crear GPTs requiere una cuenta con esa función; mientras tanto se puede usar un chat normal con las instrucciones incluidas.
 
 El usuario pega y envía el mensaje y adjunta allí sus referencias. No se activa la API, no se transfieren archivos automáticamente y los resultados no vuelven solos a la oficina.
+
+El botón abre ahora el complemento de Luma ya configurado. En su ficha pulsa Pruébalo en el chat y pega y envía el encargo. Configurar enlace de Luma permite cambiar entre GPTs y complementos; crear un GPT nuevo es opcional. Las preferencias guardadas en cada navegador se conservan.
