@@ -1,26 +1,30 @@
-# Luma · El jardín creativo
+# Luma · Estudio creativo con patio y dos niveles
 
-Demo estática de un estudio 3D con Luma y su equipo creativo.
+Demo estática de la oficina 3D de Luma y su equipo.
 
-## Novedades
+## Esta versión
 
-- Panel de entrega desplazable hasta la revisión final; cierre de ventanas sin bloquear la página.
-- Zoom con pellizco táctil, trackpad y gestos de Safari, además de controles de cámara.
-- Cinco personajes originales con ojos expresivos y accesorios: Luma (zorrita), Elio (ranita), Iris (ajolotita), Milo (mapachito) y Alba (conejita).
-- Nombre y cargo visibles en las etiquetas y los accesos a las oficinas.
-- Cinco oficinas, cámara en perspectiva, ventanales en arco, jardín central con flores y fuente animada, salón y rincón de café.
-- Luma visita la oficina de cada especialista, conversan y después regresan a sus mesas. Los personajes siguen rutas que evitan paredes, jardín y escritorios; también hacen pausas en las zonas comunes.
-- Interfaz con verdes, azul grisáceo, madera y lavanda.
-- Se conservan los encargos, las entregas descargables y las referencias visuales locales.
+- Materiales cálidos: piedra, madera, terracota, oliva y acentos rosa; iluminación cálida suave.
+- Dos alas en planta baja: Iris y Milo a un lado, Alba y el salón común al otro.
+- Oficinas más amplias para Luma y Elio en la planta alta, conectadas por una escalera de 16 peldaños.
+- Jardín central más verde, delimitado por un muro bajo, con fuente, flores, árboles y bancos.
+- Expresiones sonrientes y gestos de conversación más amables.
+- Desplazamientos con aceleración y frenado, pasos ligados a la distancia y apoyo en los peldaños.
+- Cada paseo muestra su motivo: observar el jardín, buscar inspiración, descansar en el salón o tomar un café. Las pausas empiezan al llegar, no mientras caminan.
+- Luma visita al especialista y se queda cerca para revisar el avance; vuelve arriba para la revisión final.
+- Las fases no hacen moverse a quienes no participan. Se mantienen legibles el nombre, el cargo y la actividad.
+- Se conservan el zoom por pellizco, los encargos, las referencias y el panel de entrega con desplazamiento completo.
 
-## Alcance de esta demo
+## Alcance
 
-No hay IA conectada en esta versión estática. Los movimientos, las fases y los resultados son muestras simuladas; no se interpreta el brief ni el estilo de las referencias con IA. Un recorrido completo dura aproximadamente 48 segundos. Los datos son locales al navegador, no se sincronizan entre dispositivos y los trabajos avanzan mientras la página esté abierta.
+Esta versión no tiene IA conectada. Los movimientos y resultados son una demostración programada; no interpreta el brief ni las referencias con IA. Un recorrido completo dura aproximadamente un minuto.
 
-Para usar IA real se necesita el servidor del proyecto y una clave configurada allí. Esa integración permite enviar referencias visuales a los modelos; no debe configurarse ninguna clave en este HTML.
+Los encargos y referencias se guardan en el navegador; no se sincronizan entre dispositivos. Los trabajos avanzan mientras la página esté abierta. La animación del estudio descansa cuando queda fuera de pantalla o se oculta la pestaña.
+
+La integración con IA real requiere el servidor del proyecto y una clave configurada allí. No debe configurarse ninguna clave en este HTML.
 
 ## Netlify
 
-Importa la rama demo-netlify, deja vacío el comando de compilación y publica el directorio raíz. El archivo netlify.toml conserva esa configuración. Los nuevos commits a esta rama pueden activar el despliegue automático si el sitio está conectado a ella.
+La rama demo-netlify contiene el HTML autocontenido, este documento y netlify.toml. El comando de compilación debe quedar vacío y el directorio de publicación es la raíz.
 
-Esta rama contiene solo la demo compilada y autocontenida. El código fuente editable se conserva en el proyecto original del entorno. No incluye claves ni imágenes privadas de usuarios.
+Los nuevos commits pueden activar el despliegue automático si el sitio sigue conectado a esta rama. El código editable y las instrucciones completas se conservan en el proyecto original del entorno.
