@@ -5,7 +5,7 @@ Demo estática de la oficina 3D de Luma y su equipo.
 ## Esta versión
 
 - Materiales cálidos: piedra, madera, terracota, oliva y acentos rosa; iluminación cálida suave.
-- Dos alas en planta baja: Iris y Milo a un lado, Alba y el salón común al otro.
+- Dos alas en planta baja: Iris y Milo a un lado, Alba y el taller de inspiración al otro; el descanso ocupa una habitación anexa.
 - Oficinas más amplias para Luma y Elio en la planta alta, conectadas por una escalera de 16 peldaños.
 - Jardín central más verde, delimitado por un muro bajo, con fuente, flores, árboles y bancos.
 - Expresiones sonrientes y gestos de conversación más amables.
@@ -36,3 +36,12 @@ En Nuevo encargo, el apartado Crear con Luma en ChatGPT prepara el pedido y perm
 El usuario pega y envía el mensaje y adjunta allí sus referencias. No se activa la API, no se transfieren archivos automáticamente y los resultados no vuelven solos a la oficina.
 
 El botón abre ahora el complemento de Luma ya configurado. En su ficha pulsa Pruébalo en el chat y pega y envía el encargo. Configurar enlace de Luma permite cambiar entre GPTs y complementos; crear un GPT nuevo es opcional. Las preferencias guardadas en cada navegador se conservan.
+
+
+## Salas y mobiliario personalizado
+
+Los rótulos flotantes son compactos y ligeramente transparentes; conservan nombre, cargo y actividad. El foco y la selección recuperan un fondo opaco. La navegación permite acercarse directamente a Inspiración o Descanso y café.
+
+El salón de descanso ocupa una habitación anexa con barra, sofás y televisión. Los personajes llegan por una ruta, se recuestan sobre el sofá y se incorporan antes de salir. La televisión muestra una animación geométrica original, que se detiene con movimiento reducido; no reproduce servicios de streaming.
+
+El taller de inspiración reúne cuadros, restiradores, revistas y materiales de dibujo. Iris tiene un restirador grande, dibujos y papeles en el suelo; Milo, un escritorio ampliado, cuadros y revistas; Alba, cámara, luces y libros. En la planta alta, Elio tiene sillón conceptual azul, barra de café y perchero con chaquetas; Luma tiene una mini sala, refrigerador, mesa central y esculturas.
