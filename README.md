@@ -1,18 +1,25 @@
-# Luma · Demo del equipo creativo
+# Luma · Estudio creativo voxel
 
-Demo estática del estudio 3D de Luma, Elio, Iris, Milo y Alba.
+Demo estática con cinco personajes de bloques y plantitas: Luma, Elio, Iris, Milo y Alba.
 
-## Publicar con Netlify
+## Novedades
 
-1. Importa este repositorio desde GitHub.
-2. Elige la rama `demo-netlify`.
-3. Deja el comando de compilación vacío y usa `.` como directorio de publicación.
-4. Publica el proyecto. Netlify proporcionará la dirección web.
+- Texto más grande, mejor contraste y controles legibles.
+- Cinco oficinas individuales con navegación, zoom y cámara desplazable.
+- Sala de reuniones, café y tablero de referencias.
+- Animación con piernas, brazos y gestos de trabajo, sin salto constante del cuerpo.
+- Luma delega los encargos al equipo completo.
+- Las entregas se abren al finalizar y conservan botones visibles para consultar y descargar sus archivos.
+- Hasta tres referencias PNG, JPG o WebP por encargo; se guardan en el navegador y se pueden revisar en la entrega y en el tablero.
 
-`netlify.toml` ya configura la carpeta de publicación. No necesitas instalar dependencias, comprar un dominio ni añadir claves para esta demo.
+## Alcance de esta demo
 
-## Alcance
+No hay IA conectada en esta versión estática. Las fases y los resultados son muestras simuladas; no se interpreta el brief ni el estilo de las referencias con IA. Un recorrido completo dura aproximadamente 36 segundos. Los datos son locales al navegador, no se sincronizan entre dispositivos y los trabajos avanzan mientras la página esté abierta.
 
-Es una demostración: las tareas, los conceptos, las imágenes y los textos son muestras simuladas. No llama a proveedores de IA ni publica en redes sociales. Los encargos avanzan mientras la página esté abierta. Se guardan en el navegador del visitante si admite almacenamiento local y no se sincronizan entre dispositivos.
+Para usar IA real se necesita el servidor del proyecto y una clave configurada allí. Esa integración permite enviar referencias visuales a los modelos; no debe configurarse ninguna clave en este HTML.
 
-Esta rama contiene solamente la demo compilada, autocontenida en `index.html`, y las instrucciones para alojarla. No contiene claves, archivos privados ni datos de encargos. El código fuente editable de la aplicación completa se conserva en el proyecto original del entorno.
+## Netlify
+
+Importa la rama `demo-netlify`, deja vacío el comando de compilación y publica el directorio `.`. `netlify.toml` conserva esa configuración. Los nuevos commits a esta rama pueden activar el despliegue automático si el sitio está conectado a ella.
+
+Esta rama contiene solo la demo compilada y autocontenida. El código fuente editable se conserva en el proyecto original del entorno. No incluye claves ni imágenes privadas de usuarios.
