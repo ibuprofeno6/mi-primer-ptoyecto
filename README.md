@@ -28,3 +28,9 @@ La integración con IA real requiere el servidor del proyecto y una clave config
 La rama demo-netlify contiene el HTML autocontenido, este documento y netlify.toml. El comando de compilación debe quedar vacío y el directorio de publicación es la raíz.
 
 Los nuevos commits pueden activar el despliegue automático si el sitio sigue conectado a esta rama. El código editable y las instrucciones completas se conservan en el proyecto original del entorno.
+
+## Crear con Luma en ChatGPT
+
+En Nuevo encargo, el apartado Crear con Luma en ChatGPT prepara el pedido y permite copiarlo y abrir ChatGPT. El apartado Configurar mi GPT de Luma contiene las instrucciones, el acceso al creador y un campo para guardar su enlace. Crear GPTs requiere una cuenta con esa función; mientras tanto se puede usar un chat normal con las instrucciones incluidas.
+
+El usuario pega y envía el mensaje y adjunta allí sus referencias. No se activa la API, no se transfieren archivos automáticamente y los resultados no vuelven solos a la oficina.
